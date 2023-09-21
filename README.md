@@ -37,7 +37,7 @@
 
 
 ### その後の機能
-* 位置情報追加機能：Google Maps Platform
+* 位置情報を含んだポストを投稿：Google Maps Platform
 * 交流掲示板：ActionCable、WebSocket
 * スケジュールのリマインド通知：Google Cloud Project、Google Calendar API
 
