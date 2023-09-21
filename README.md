@@ -30,13 +30,16 @@
 * ポスト詳細
 * ポストへのいいね機能、ポスト保存機能
 * スケジュール・イベント登録
-* ジブリ公式サイト、SNSリンク集
+* ジブリ公式サイト、SNSリンク集  
+　◻︎ Webサイトからの情報取得：nokogiri(gem)を使用してスクレイピング  
+　◻︎ X(Twitter)からの情報取得：Twitter API  
+　◻︎ Instagramからの情報取得：Instagram Graph API  
 
 
 ### その後の機能
-* 位置情報追加機能
-* 交流掲示板
-* スケジュールのリマインド通知
+* 位置情報追加機能：Google Maps Platform
+* 交流掲示板：ActionCable、WebSocket
+* スケジュールのリマインド通知：Google Cloud Project、Google Calendar API
 
 
 ### 機能の実装方針予定
