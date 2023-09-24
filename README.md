@@ -37,6 +37,7 @@
 　◻︎ Webサイトからの情報取得：nokogiri(gem)を使用してスクレイピング  
 　◻︎ X(Twitter)からの情報取得：Twitter API  
 　◻︎ Instagramからの情報取得：Instagram Graph API  
+* 検索機能（オートコンプリート）：Stimulus Autocomplete
 
 
 ### その後の機能
@@ -54,4 +55,5 @@
 * Instagramからの情報取得：Instagram Graph API
 * 位置情報：Google Maps Platform
 * チャット機能：ActionCable、WebSocket
-* スケジュール機能：Google Cloud Project、Google Calendar API
+* スケジュール機能：Google Cloud Project、Google Calendar API  
+* 検索機能（オートコンプリート）：Stimulus Autocomplete
