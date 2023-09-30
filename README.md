@@ -57,3 +57,7 @@
 * チャット機能：ActionCable、WebSocket
 * スケジュール機能：Google Cloud Project、Google Calendar API  
 * 検索機能（オートコンプリート）：Stimulus Autocomplete
+
+
+### 画面遷移図
+* https://www.figma.com/file/5b0e3vKQDdDYE1pOtcCGiI/y-i's-team-library?type=design&node-id=0%3A1&mode=design&t=dqoDWoyxtb3ojOda-1
